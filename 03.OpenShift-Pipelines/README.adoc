@@ -123,7 +123,7 @@ the parameter:
   --showlog
 TaskRun started: hello-params-task-run-jqfbs
 Waiting for logs to be available...
-[say-hello] My name
+[say-hello] Hello My name
 ```
 
 ### Multiple Stepped Task
